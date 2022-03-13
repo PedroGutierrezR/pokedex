@@ -1,0 +1,29 @@
+html {
+  min-height: 100%;
+  position: relative;
+}
+body {
+  color: #42649a;
+  margin: 0;
+  margin-bottom: 40px;
+}
+main {
+  margin-bottom: 100px;
+}
+.imagen {
+  width: 120px;
+}
+/* main {
+  height: 71vh;
+} */
+.btn {
+  background-color: #fdca1b;
+  color: #42649a;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-color: #42649a;
+}
